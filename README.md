@@ -1,16 +1,26 @@
 ## Hi there 👋
+>> About Me
 
-<!--
-**jjiya8441/jjiya8441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jiya Jain, a Business Analytics graduate passionate about data-driven problem solving. I have hands-on experience in Python, SQL, Power BI, Tableau, Machine Learning, and BI tools.
+I love transforming raw data into meaningful insights, building dashboards, and solving real-world problems. I’m always learning new technologies and exploring analytics, AI, and visualization.
 
-Here are some ideas to get you started:
+>> My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analytics: Turning complex data into insights
+
+Business Intelligence: Dashboards using Power BI & Tableau
+
+Healthcare Analytics: Using data to improve outcomes
+
+Data Engineering Basics: Pipelines, APIs, data cleaning
+
+
+>> Skills
+
+Languages: Python, SQL
+
+Tools: Power BI, Tableau, Excel, Jupyter Notebook
+
+Visualization: DAX, Power Query, Advanced Charts
+
+Others: APIs, Web Scraping, Data Cleaning
